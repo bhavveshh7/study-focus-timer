@@ -1,17 +1,2 @@
-# Study Focus Timer
+<img width="908" height="527" alt="Screenshot 2026-05-25 190156" src="https://github.com/user-attachments/assets/69a77858-e594-4d3a-900f-c328765a613c" /><img width="1326" height="646" alt="Screenshot 2026-05-25 185939" src="https://github.com/user-attachments/assets/9eb8f021-c851-432a-a50e-6cdce4d91652" />
 
-A simple Python-based study timer that helps students stay focused during study sessions using motivational quotes.
-
-## Features
-- Countdown study timer
-- Motivational quotes after session
-- Simple command-line interface
-
-## Technologies Used
-- Python
-- time module
-- random module
-
-## How to Run
-```bash
-python study_focus_timer.py
